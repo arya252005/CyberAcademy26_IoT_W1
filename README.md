@@ -6,7 +6,7 @@ Repositori ini berisi *source code* resmi untuk Modul 1 praktikum Internet of Th
 ## Deskripsi
 Proyek ini mendemonstrasikan cara membuat program *Blink* LED sederhana yang disertai komunikasi *Serial Monitor*, dengan memecah fungsi-fungsi kontrol ke dalam *file* Header (`.h`). Pendekatan ini bertujuan untuk melatih peserta membiasakan penulisan *clean code* dan pengorganisasian *file* yang rapi menggunakan arsitektur Arduino Framework.
 
-## 🛠️ Perangkat Keras yang Digunakan
+## Perangkat Keras yang Digunakan
 Komponen utama yang dirakit pada *breadboard* meliputi:
 - IC ATMega328P-PU
 - Modul USB to TTL (FTDI)
